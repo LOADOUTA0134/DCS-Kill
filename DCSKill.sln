@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCSKill", "DCSKill\DCSKill.csproj", "{0A7A6755-3658-4EB0-A4B6-EB17DD346EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A7A6755-3658-4EB0-A4B6-EB17DD346EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7A6755-3658-4EB0-A4B6-EB17DD346EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7A6755-3658-4EB0-A4B6-EB17DD346EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7A6755-3658-4EB0-A4B6-EB17DD346EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {912EA1A7-2970-4E8D-86B4-167459EE271C}
+	EndGlobalSection
+EndGlobal
