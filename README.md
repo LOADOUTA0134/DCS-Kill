@@ -1,1 +1,1 @@
-A simple App that kills DCS instantly.
+A simple app that closes DCS instantly.
